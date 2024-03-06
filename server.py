@@ -1,6 +1,4 @@
 import socket #b{Thread}.[8]
-
-
 from threading import Thread
 
 SERVER_HOST = "172.28.32.1"
